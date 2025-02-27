@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://leetcard.jacoblin.cool/luthrasaara?theme=unicorn)
+![](https://leetcard.jacoblin.cool/luthrasaara?theme=light,unicorn)
