@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://leetcard.jacoblin.cool/luthrasaara?theme=unicorn)
-![](https://leetcard.jacoblin.cool/luthrasaara?theme=light,unicorn)
+![](https://leetcard.jacoblin.cool/luthrasaaral?cache=0)
