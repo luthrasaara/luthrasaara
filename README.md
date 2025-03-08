@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently a cs major student at the University of Toronto
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Python, Java, and C
 - 👯 I’m looking to get an internship!
 - 📫 How to reach me: luthrasaara@gmail.com
   
