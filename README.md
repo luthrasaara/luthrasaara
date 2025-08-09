@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: luthrasaara@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://leetcard.jacoblin.cool/luthrasaara?cache=0)
 -->
 
 - 🔭 I’m currently a cs major student at the University of Toronto
@@ -24,4 +25,4 @@ Here are some ideas to get you started:
 
 
 
-![](https://leetcard.jacoblin.cool/luthrasaara?cache=0)
+
