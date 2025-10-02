@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: luthrasaara@gmail.com
   
 
+Experience: 
+- I have participated in multiple MLH hackathons, including DeerHacks and Technova, among others.
+- Currently, I am part of the  WISE, UofT chapter, and I am responsible for creating promotional materials for events and initiatives using Figma
+
 
 
 
